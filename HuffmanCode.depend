@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615720427 source:e:\c++\huffmancode\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<queue>
+	<unordered_map>
+	<fstream>
+	<bits/stdc++.h>
+
